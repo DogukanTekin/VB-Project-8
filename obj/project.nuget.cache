@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWvtTkdOicZHyufqZ7CJVimN38rBeGjpsnf5SpViYODqXmq0/J8DvxQefPf/lMkT6VSZESX+dtsh0lhyMj7ieA==",
+  "success": true,
+  "projectFilePath": "D:\\21-22 Güz Dönemi\\Nesne Tabanlı VisualBasic\\Projeler\\Vize2Sınavı\\Vize2Sınavı.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

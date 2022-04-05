@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Vize2Sınavı/1.0.0": {
+        "runtime": {
+          "Vize2Sınavı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vize2Sınavı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
